@@ -9,6 +9,7 @@ A team case study exploring whether annual household income is associated with p
 - **`BSE_2010.dta`** — the original survey dataset.
 - **`mrdoc/`** — supporting documentation, including questionnaires, the technical report, and the data dictionary.
 - **`read6970.htm`** — important archive notes and known data issues.
+- **`Case Study_Report.pdf`** — Final Case Study Report summarizing the work down as a team towards the Case Study question.
 
 ## Working notebook
 
